@@ -34,26 +34,10 @@ npm install
 npm start
 ```
 
-On Windows PowerShell, use:
-
-```powershell
-git clone https://github.com/sheikhtamimlover/ST_WhatsappBotV2.git
-Copy-Item -Recurse -Force ST_WhatsappBotV2\* .
-Remove-Item -Recurse -Force ST_WhatsappBotV2
-npm install
-npm start
-```
-
 ## Start Commands
 
 ```bash
 npm start
-```
-
-or:
-
-```bash
-npm run dev
 ```
 
 ## Configuration
