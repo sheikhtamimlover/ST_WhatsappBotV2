@@ -1,0 +1,42 @@
+{
+  "prefix": "!",
+  "botName": "ST WCAV2",
+  "language": "en",
+  "adminBot": [],
+  "phoneNumber": "8801xxxxxxx",
+  "loginMode": "pair",
+  "authFolder": "./auth",
+  "database": {
+    "type": "json",
+    "uriMongodb": "",
+    "autoSyncWhenStart": false,
+    "autoRefreshThreadInfoFirstTime": true,
+    "notes": "(1) type: 'json' or 'mongodb' | (2) if mongodb, fill uriMongodb with your MongoDB URI | (3) autoSyncWhenStart: reload all data from DB on every restart | (4) autoRefreshThreadInfoFirstTime: pull fresh group info from WA on first boot"
+  },
+  "listen": {
+    "selfListen": false,
+    "listenEvents": true,
+    "autoMarkDelivery": false,
+    "autoReconnect": true,
+    "listenRawMsg": true
+  },
+  "featureBox": {
+    "whitelistMode": false,
+    "whitelistUIDs": [],
+    "whitelistThreadMode": false,
+    "whitelistThreadIDs": [],
+    "adminOnly": false,
+    "antiInbox": false,
+    "unsendBotReact": true,
+    "unsendBotReactEmoji": "👍"
+  },
+  "express": {
+    "enable": true,
+    "port": 3000
+  },
+  "autoUptime": {
+    "enable": false,
+    "url": "",
+    "timeInterval": 180
+  }
+}
