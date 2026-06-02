@@ -1,6 +1,6 @@
 "use strict";
 
-const { normUID } = require("../../wca/utils");
+const { normUID } = require("@sheikhtamim/wca/utils");
 
 /**
  * Normalize admin check — compares bare numeric IDs so both phone JIDs and

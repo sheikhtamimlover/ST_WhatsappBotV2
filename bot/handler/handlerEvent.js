@@ -3,7 +3,7 @@
 const handlerAction         = require("./handlerAction.js");
 const { isAdminUID }        = require("./handlerAction.js");
 const handleCheckData       = require("./handletCheckData.js");
-const { normUID }           = require("../../wca/utils");
+const { normUID }           = require("@sheikhtamim/wca/utils");
 
 // ─── Get display name from DB ─────────────────────────────────────────────────
 async function getDisplayName(uid) {
