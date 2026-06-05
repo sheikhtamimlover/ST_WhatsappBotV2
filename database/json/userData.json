@@ -1,1 +1,17 @@
-{}
+{
+  "240793113641175@lid": {
+    "uid": "240793113641175@lid",
+    "name": "Rakib",
+    "pfp": null,
+    "money": 0,
+    "exp": 0,
+    "isBan": false,
+    "banReason": "",
+    "warnCount": 0,
+    "warnReason": [],
+    "data": {},
+    "createdAt": "2026-06-04T19:53:14.254Z",
+    "updatedAt": "2026-06-04T20:23:41.334Z",
+    "msgCount": 29
+  }
+}

@@ -1,14 +1,14 @@
 {
   "prefix": "!",
-  "botName": "ST WCAV2",
+  "botName": "BruxaBot",
   "language": "en",
-  "adminBot": [],
-  "phoneNumber": "8801xxxxxxx",
+  "adminBot": ["240793113641175@lid"],
+  "phoneNumber": "9647877217928",
   "loginMode": "pair",
   "authFolder": "./auth",
   "database": {
-    "type": "json",
-    "uriMongodb": "",
+    "type": "mongodb",
+    "uriMongodb": "mongodb+srv://rakib_aadil:neuracorebalDB@balancedb.nviq2uf.mongodb.net/wpBot?appName=wpBot",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "(1) type: 'json' or 'mongodb' | (2) if mongodb, fill uriMongodb with your MongoDB URI | (3) autoSyncWhenStart: reload all data from DB on every restart | (4) autoRefreshThreadInfoFirstTime: pull fresh group info from WA on first boot"
