@@ -1,1 +1,66 @@
-{}
+{
+  "120363426498875545@g.us": {
+    "tid": "120363426498875545@g.us",
+    "name": "Bot gc",
+    "approvalMode": false,
+    "adminIDs": [
+      "240793113641175@lid"
+    ],
+    "totalMember": 5,
+    "allMembers": [
+      {
+        "uid": "99867334549634@lid",
+        "name": "Unknown",
+        "pfp": null,
+        "msgCount": 0,
+        "inGroup": true
+      },
+      {
+        "uid": "187995131015239@lid",
+        "name": "Unknown",
+        "pfp": null,
+        "msgCount": 0,
+        "inGroup": true
+      },
+      {
+        "uid": "240793113641175@lid",
+        "name": "Unknown",
+        "pfp": null,
+        "msgCount": 0,
+        "inGroup": true
+      },
+      {
+        "uid": "135502510444584@lid",
+        "name": "Unknown",
+        "pfp": null,
+        "msgCount": 0,
+        "inGroup": true
+      },
+      {
+        "uid": "186393124970625@lid",
+        "name": "Unknown",
+        "pfp": null,
+        "msgCount": 0,
+        "inGroup": true
+      }
+    ],
+    "memberMsgCount": {
+      "240793113641175@lid": 25
+    },
+    "data": {},
+    "createdAt": "2026-06-04T19:54:25.348Z",
+    "updatedAt": "2026-06-04T20:23:41.335Z"
+  },
+  "240793113641175@lid": {
+    "tid": "240793113641175@lid",
+    "name": "Unknown Group",
+    "approvalMode": false,
+    "adminIDs": [],
+    "totalMember": 0,
+    "allMembers": [],
+    "memberMsgCount": {},
+    "data": {},
+    "createdAt": "2026-06-04T20:07:47.412Z",
+    "updatedAt": "2026-06-04T20:07:47.412Z"
+  }
+}
